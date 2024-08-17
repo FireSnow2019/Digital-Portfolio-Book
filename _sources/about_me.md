@@ -21,3 +21,9 @@ As a committed project manager, I have led cross-functional teams and maintained
 In summary, I bring a passion for data analysis, a wealth of technical expertise, project management skills, and cross-functional experience to any organization as a data scientist. I am excited about the opportunity to continue to grow and develop in my field, and I look forward to the possibility of contributing to your team.
 
 Thank you for considering my application.
+
+<p>
+------///----\\\------------
+Developer: Husain Taquee <br/>
+Author: Alex Do <br/>
+</p>
