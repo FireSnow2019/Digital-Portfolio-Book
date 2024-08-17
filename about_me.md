@@ -23,7 +23,7 @@ In summary, I bring a passion for data analysis, a wealth of technical expertise
 Thank you for considering my application.
 
 <p>
-------///----\\\------------
-Developer: Husain Taquee <br/>
-Author: Alex Do <br/>
+------///----\\\------------<br/><BR/>
+<u>Developer</u>: Husain Taquee <br/>
+<u>Author: Alex Do</u> <br/>
 </p>
